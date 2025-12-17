@@ -1,3 +1,5 @@
+# Antonie Azor - Data Analytics Portfolio
+
 Hi, I’m Antonie and this is my Data Analytics Portfolio.
 
 Welcome!
@@ -32,7 +34,7 @@ GitHub
 Markdown
 
 ## Projects
-# Netflix Movies & TV Shows — Data Analysis
+- Netflix Movies & TV Shows — Data Analysis
 
 What this project is about:
 An exploratory analysis of the Netflix Movies & TV Shows dataset, focusing on understanding the structure of the data, cleaning it effectively, and answering some basic questions about the content available on the platform.

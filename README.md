@@ -21,7 +21,7 @@ Writing SQL queries in BigQuery
 
 Explaining findings clearly and logically
 
-## Tools I’m Using
+## Tools I’m Using:
 
 Google Sheets / Excel
 
@@ -33,8 +33,8 @@ GitHub
 
 Markdown
 
-## Projects
-- Netflix Movies & TV Shows — Data Analysis
+## Projects:
+1) *Netflix Movies & TV Shows — Data Analysis*
 
 What this project is about:
 An exploratory analysis of the Netflix Movies & TV Shows dataset, focusing on understanding the structure of the data, cleaning it effectively, and answering some basic questions about the content available on the platform.
@@ -52,7 +52,7 @@ Documenting decisions as I went
 View the full analysis on Kaggle: (https://www.kaggle.com/code/antonieazor/netflix-movie-and-tv-mini-project)
 
 
-## How This Repo Is Organised
+## How This Repo Is Organised:
 
 This README acts as a high-level overview
 
@@ -62,7 +62,7 @@ Screenshots are stored in the respective project folder
 
 The goal is clarity over complexity
 
-## What I’m Learning Next
+## What I’m Learning Next:
 
 More advanced SQL (joins, aggregations, and querying larger datasets)
 
@@ -70,7 +70,7 @@ Better ways to communicate insights visually
 
 Structuring projects so they’re easy for others to follow
 
-## Get in Touch
+## Get in Touch:
 
 LinkedIn: (www.linkedin.com/in/antonie-azor-924a26390)
 

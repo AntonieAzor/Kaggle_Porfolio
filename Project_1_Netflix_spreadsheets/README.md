@@ -14,4 +14,4 @@ exploratory analysis, and basic visualisation technique.
 
 ## 🖼 Screenshots
 - These are labelled clearly in the Kaggle notebook.
-[Directory link](screenshots/Netflix_Movies_and_TV_Shows_MiniProject)
+[Directory link](Project_1_Netflix_spreadsheets/Screenshots)
